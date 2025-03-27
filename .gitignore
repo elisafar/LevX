@@ -1,0 +1,24 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files (MacOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+*.tmp
+
+# Python dependencies
+requirements.txt
+pip-log.txt
